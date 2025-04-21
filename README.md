@@ -1,5 +1,11 @@
 # ml-study-guide
-My university machine learning notes, covering foundational concepts and coding exercises in Python. Built to reinforce my understanding and share with others diving into ML.
+
+## Goals
+
+- Solidify my understanding of Machine Learning concepts
+- Bridge theory and practice with code examples
+- Create a reference that others can learn from
+
 
 ### Table of Contents
 
