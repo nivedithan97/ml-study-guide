@@ -1,5 +1,10 @@
 # ml-study-guide
 
+## Overview
+
+This repository contains my personal notes and hands-on implementations from university-level Machine Learning coursework. It combines theoretical explanations, key concepts, and Python notebooks, structured in a way to serve both as a reference and a learning companion.
+
+
 ## Goals
 
 - Solidify my understanding of Machine Learning concepts
